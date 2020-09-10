@@ -1,0 +1,13 @@
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.exe
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.deps.json
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.runtimeconfig.json
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.runtimeconfig.dev.json
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.dll
+C:\trainig\src\coronaProj\bin\Debug\netcoreapp3.1\coronaProj.pdb
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.csprojAssemblyReference.cache
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.AssemblyInfoInputs.cache
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.AssemblyInfo.cs
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.csproj.CoreCompileInputs.cache
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.dll
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.pdb
+C:\trainig\src\coronaProj\obj\Debug\netcoreapp3.1\coronaProj.genruntimeconfig.cache
